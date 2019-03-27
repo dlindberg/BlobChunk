@@ -1,0 +1,53 @@
+{
+    "name": "dlindberg/blob-chunk",
+    "type": "library",
+    "description": "Utility for breaking up a content fragment of HTML for search indexing",
+    "keywords": [
+        "dlindberg",
+        "blob-chunk"
+    ],
+    "homepage": "https://github.com/dlindberg/blob-chunk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dane Lindberg",
+            "email": "dane@lindberg.xyz",
+            "homepage": "https://danelindberg.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "ext-dom"             : "*",
+        "ext-libxml"          : "*",
+        "ext-mbstring"        : "*",
+        "dlindberg/dom-document-factory": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "^8.0",
+        "squizlabs/php_codesniffer": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "dlindberg\\BlobChunk\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "dlindberg\\BlobChunk\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "check-style": "phpcs src tests",
+        "fix-style": "phpcbf src tests"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
