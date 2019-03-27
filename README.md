@@ -58,15 +58,15 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/dlindberg/blob-chunk.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/dlindberg/blob-chunk/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/dlindberg/blob-chunk.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/dlindberg/blob-chunk.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/dlindberg/blob-chunk.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/dlindberg/BlobChunk/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/dlindberg/BlobChunk.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/dlindberg/BlobChunk.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/dlindberg/BlobChunk.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/dlindberg/blob-chunk
-[link-travis]: https://travis-ci.org/dlindberg/blob-chunk
-[link-scrutinizer]: https://scrutinizer-ci.com/g/dlindberg/blob-chunk/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/dlindberg/blob-chunk
-[link-downloads]: https://packagist.org/packages/dlindberg/blob-chunk
+[link-travis]: https://travis-ci.org/dlindberg/BlobChunk
+[link-scrutinizer]: https://scrutinizer-ci.com/g/dlindberg/BlobChunk/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/dlindberg/BlobChunk
+[link-downloads]: https://packagist.org/packages/dlindberg/BlobChunk
 [link-author]: https://github.com/dlindberg
 [link-contributors]: ../../contributors
