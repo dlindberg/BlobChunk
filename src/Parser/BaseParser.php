@@ -7,7 +7,7 @@ namespace dlindberg\BlobChunk\Parser;
 use dlindberg\BlobChunk\Manager\CheckNode;
 use dlindberg\DOMDocumentFactory\DOMDocumentFactory as Doc;
 
-abstract class BaseParser implements parse
+abstract class BaseParser
 {
     /**
      * @var CheckNode
